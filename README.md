@@ -1,3 +1,6 @@
+
+LIVE : 
+
 # Coffee Shop Website
 
 Welcome to the Coffee Shop Website project — a beautifully designed, fully responsive single-page website for a modern coffee house located in Bernsdorf, Germany. Built with pure HTML, CSS, and JavaScript, this project brings to life an elegant coffee shop experience with warm color tones, smooth animations, and an intuitive user interface that works seamlessly across all device sizes.
